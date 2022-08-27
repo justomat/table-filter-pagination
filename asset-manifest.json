@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/table-filter-pagination/static/css/main.98026848.css",
+    "main.js": "/table-filter-pagination/static/js/main.53455e68.js",
+    "index.html": "/table-filter-pagination/index.html",
+    "main.98026848.css.map": "/table-filter-pagination/static/css/main.98026848.css.map",
+    "main.53455e68.js.map": "/table-filter-pagination/static/js/main.53455e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98026848.css",
+    "static/js/main.53455e68.js"
+  ]
+}
